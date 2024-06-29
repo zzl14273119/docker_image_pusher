@@ -1,2 +1,2 @@
-nginx
+mysql:8.0.31
 nacos/nacos-server:v2.3.2
