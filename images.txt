@@ -17,3 +17,4 @@ grafana/grafana:9.2.4
 apache/shardingsphere-proxy:5.4.0
 redis:7.4.0
 mysql:8.3.0
+grafana/grafana:11.3.0
