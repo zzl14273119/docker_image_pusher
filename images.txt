@@ -1,1 +1,1 @@
-openjdk:17-jdk-alpine
+openjdk:17-jdk
