@@ -1,1 +1,1 @@
-eclipse-temurin:8u422-b05-jdk
+apache/seata-naming-server:2.5.0
