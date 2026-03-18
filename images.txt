@@ -1,1 +1,1 @@
-apache/seata-naming-server:2.5.0
+postgres:15.3
