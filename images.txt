@@ -1,1 +1,1 @@
-sentry:latest
+ghcr.io/getsentry/sentry:26.3.1
