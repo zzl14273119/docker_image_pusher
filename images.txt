@@ -1,1 +1,2 @@
-edoburu/pgbouncer:v1.24.1-p1
+bitnami/kubectl:latest
+curlimages/curl:latest
