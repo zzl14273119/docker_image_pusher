@@ -1,2 +1,1 @@
-bitnami/kubectl:latest
-curlimages/curl:latest
+minio/mc:latest
