@@ -1,1 +1,2 @@
-minio/mc:latest
+elasticsearch:8.18.5
+kibana:8.18.5
