@@ -1,2 +1,2 @@
-elasticsearch:8.18.5
-kibana:8.18.5
+apache/rocketmq:5.4.0
+apacherocketmq/rocketmq-dashboard:2.1.0
