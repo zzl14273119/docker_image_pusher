@@ -1,1 +1,1 @@
-nacos-mcp-router:latest
+nacos/nacos-mcp-router:0.2.2
