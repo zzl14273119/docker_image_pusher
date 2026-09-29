@@ -1,1 +1,1 @@
-redis/redis-stack:latest
+nacos-mcp-router:latest
